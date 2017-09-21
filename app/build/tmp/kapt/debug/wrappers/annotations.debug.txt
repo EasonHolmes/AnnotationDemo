@@ -1,0 +1,7 @@
+p com.cui.annotationsproject 0
+d 0/MainActivity
+a com.cui.libannotation.BindView 0
+f 0 0/MainActivity textview
+a org.jetbrains.annotations.NotNull 1
+f 1 0/MainActivity textview
+m 1 0/MainActivity getTextview

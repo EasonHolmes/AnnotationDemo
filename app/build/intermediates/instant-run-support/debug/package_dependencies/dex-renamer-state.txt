@@ -1,0 +1,4 @@
+#Thu Sep 21 11:39:58 CST 2017
+base.0=/Users/cuiyang/Documents/work/workspace/Private/SIngleProject/AnnotationsProject/app/build/intermediates/transforms/dexMerger/debug/16
+renamed.0=classes.dex
+file.0=/Users/cuiyang/Documents/work/workspace/Private/SIngleProject/AnnotationsProject/app/build/intermediates/transforms/dexMerger/debug/16/classes.dex

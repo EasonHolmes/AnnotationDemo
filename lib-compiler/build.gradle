@@ -1,0 +1,11 @@
+apply plugin: 'java-library'
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.google.auto.service:auto-service:1.0-rc3'//用于自动为 JAVA Processor 生成 META-INF 信息。
+    implementation 'com.squareup:javapoet:1.8.0'//封装了一套生成 .java 源文件的 API
+    implementation project(':lib-annotation')
+}
+
+sourceCompatibility = "1.7"
+targetCompatibility = "1.7"

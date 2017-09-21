@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/cuiyang/Documents/work/workspace/Private/SIngleProject/AnnotationsProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "/Users/cuiyang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/dea5a6cafeca39df3076137eaf7ba414/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            }
+        ]
+    }
+]
